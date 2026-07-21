@@ -1,0 +1,9 @@
+# Private database connection and certificate files
+/db.php
+/ca.pem
+/quicktest.php
+
+# Local/editor artifacts
+/.idea/
+/.vscode/
+*.log
